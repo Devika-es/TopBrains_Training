@@ -1,0 +1,15 @@
+C:\TopBrains\Csharp\SearchFromCollections\bin\Debug\net10.0\SearchFromCollections.exe
+C:\TopBrains\Csharp\SearchFromCollections\bin\Debug\net10.0\SearchFromCollections.deps.json
+C:\TopBrains\Csharp\SearchFromCollections\bin\Debug\net10.0\SearchFromCollections.runtimeconfig.json
+C:\TopBrains\Csharp\SearchFromCollections\bin\Debug\net10.0\SearchFromCollections.dll
+C:\TopBrains\Csharp\SearchFromCollections\bin\Debug\net10.0\SearchFromCollections.pdb
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.AssemblyInfoInputs.cache
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.AssemblyInfo.cs
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.csproj.CoreCompileInputs.cache
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.sourcelink.json
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.dll
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\refint\SearchFromCollections.dll
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.pdb
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\SearchFromCollections.genruntimeconfig.cache
+C:\TopBrains\Csharp\SearchFromCollections\obj\Debug\net10.0\ref\SearchFromCollections.dll
