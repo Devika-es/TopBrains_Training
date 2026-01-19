@@ -1,0 +1,15 @@
+C:\TopBrains\Csharp\VowelsConsonants\bin\Debug\net10.0\VowelsConsonants.exe
+C:\TopBrains\Csharp\VowelsConsonants\bin\Debug\net10.0\VowelsConsonants.deps.json
+C:\TopBrains\Csharp\VowelsConsonants\bin\Debug\net10.0\VowelsConsonants.runtimeconfig.json
+C:\TopBrains\Csharp\VowelsConsonants\bin\Debug\net10.0\VowelsConsonants.dll
+C:\TopBrains\Csharp\VowelsConsonants\bin\Debug\net10.0\VowelsConsonants.pdb
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.AssemblyInfoInputs.cache
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.AssemblyInfo.cs
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.csproj.CoreCompileInputs.cache
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.sourcelink.json
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.dll
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\refint\VowelsConsonants.dll
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.pdb
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\VowelsConsonants.genruntimeconfig.cache
+C:\TopBrains\Csharp\VowelsConsonants\obj\Debug\net10.0\ref\VowelsConsonants.dll
