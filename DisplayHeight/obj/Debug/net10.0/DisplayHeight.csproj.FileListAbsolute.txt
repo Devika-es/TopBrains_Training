@@ -1,0 +1,15 @@
+C:\TopBrains\Csharp\DisplayHeight\bin\Debug\net10.0\DisplayHeight.exe
+C:\TopBrains\Csharp\DisplayHeight\bin\Debug\net10.0\DisplayHeight.deps.json
+C:\TopBrains\Csharp\DisplayHeight\bin\Debug\net10.0\DisplayHeight.runtimeconfig.json
+C:\TopBrains\Csharp\DisplayHeight\bin\Debug\net10.0\DisplayHeight.dll
+C:\TopBrains\Csharp\DisplayHeight\bin\Debug\net10.0\DisplayHeight.pdb
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.AssemblyInfoInputs.cache
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.AssemblyInfo.cs
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.csproj.CoreCompileInputs.cache
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.sourcelink.json
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.dll
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\refint\DisplayHeight.dll
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.pdb
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\DisplayHeight.genruntimeconfig.cache
+C:\TopBrains\Csharp\DisplayHeight\obj\Debug\net10.0\ref\DisplayHeight.dll
