@@ -1,0 +1,15 @@
+C:\TopBrains\Csharp\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.exe
+C:\TopBrains\Csharp\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.deps.json
+C:\TopBrains\Csharp\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.runtimeconfig.json
+C:\TopBrains\Csharp\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.dll
+C:\TopBrains\Csharp\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.pdb
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.AssemblyInfoInputs.cache
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.AssemblyInfo.cs
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.csproj.CoreCompileInputs.cache
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.sourcelink.json
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.dll
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\refint\SumOfPositiveIntegers.dll
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.pdb
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.genruntimeconfig.cache
+C:\TopBrains\Csharp\SumOfPositiveIntegers\obj\Debug\net10.0\ref\SumOfPositiveIntegers.dll
