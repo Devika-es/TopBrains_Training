@@ -1,0 +1,15 @@
+C:\TopBrains\Csharp\KhataLedger\bin\Debug\net10.0\KhataLedger.exe
+C:\TopBrains\Csharp\KhataLedger\bin\Debug\net10.0\KhataLedger.deps.json
+C:\TopBrains\Csharp\KhataLedger\bin\Debug\net10.0\KhataLedger.runtimeconfig.json
+C:\TopBrains\Csharp\KhataLedger\bin\Debug\net10.0\KhataLedger.dll
+C:\TopBrains\Csharp\KhataLedger\bin\Debug\net10.0\KhataLedger.pdb
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.GeneratedMSBuildEditorConfig.editorconfig
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.AssemblyInfoInputs.cache
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.AssemblyInfo.cs
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.csproj.CoreCompileInputs.cache
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.sourcelink.json
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.dll
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\refint\KhataLedger.dll
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.pdb
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\KhataLedger.genruntimeconfig.cache
+C:\TopBrains\Csharp\KhataLedger\obj\Debug\net10.0\ref\KhataLedger.dll
