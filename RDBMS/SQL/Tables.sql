@@ -1,0 +1,87 @@
+CREATE DATABASE SQL_PRACTICE
+USE SQL_PRACTICE
+CREATE TABLE ZIPCODE_INFO
+(
+	ZIP_CODE varchar(5),
+	CITY varchar(10)
+);
+
+select * from ZIPCODE_INFO
+
+
+
+
+CREATE TABLE INSTRUCTOR_INFO
+(
+	INSTRUCTOR_ID numeric(8,0),
+	INSTRUCTOR_FIRST_NAME varchar(15),
+	INSTRUCTOR_LAST_NAME varchar(15),
+);
+select * from INSTRUCTOR_INFO
+
+
+
+
+
+CREATE TABLE COURSE_INFO
+(
+	COURSE_NO numeric(8,0),
+	COST numeric(5,2)
+);
+select * from COURSE_INFO
+
+
+
+
+
+CREATE TABLE STUDENT_INFO
+(
+	STUDENT_ID numeric(8,0),
+	STUDENT_FIRST_NAME varchar(15),
+	STUDENT_LAST_NAME varchar(15),
+	
+);
+select * from STUDENT_INFO
+
+
+
+
+
+
+
+CREATE TABLE SECTION_INFO
+(
+	SECTION_ID numeric(8,0),
+	COURSE_NO numeric(8,0),
+	SECTION_NO numeric(5),
+	INSTRUCTOR_ID numeric(8,0),
+	
+);
+select * from SECTION_INFO
+
+
+
+
+
+
+CREATE TABLE ENROLLMENT_INFO
+(
+	STUDENT_ID numeric(8,0),
+	SECTION_ID numeric(8,0),
+);
+select * from ENROLLMENT_INFO
+
+
+
+
+CREATE TABLE GRADE_INFO
+(
+	STUDENT_ID numeric(8,0),
+	SECTION_ID numeric(8,0),
+	GRADE_TYPE_CODE char(2),
+	GRADE_CODE_OCCURENCE numeric(5),
+
+);
+
+select * from GRADE_INFO
+
